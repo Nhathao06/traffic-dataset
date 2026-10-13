@@ -5,7 +5,7 @@
 | # | Họ tên | GitHub | Đoạn sở hữu (Bước 2–3) | Ghi chú |
 |---|---|---|---|---|
 | 1 | | | S001–S003 | Điều phối; dự phòng key production |
-| 2 | | | S004–S006 | |
+| 2 | Huỳnh Nhật Hào | Nhathao06 | S004-S006 |  |
 | 3 | | | S007–S009 | |
 | 4 | | | S010–S012 | Giữ key production, vận hành thu thập |
 | 5 | | | S013–S015 | |
