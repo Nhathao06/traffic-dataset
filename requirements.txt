@@ -1,0 +1,8 @@
+requests>=2.31
+python-dotenv>=1.0
+pandas>=2.0
+osmnx>=1.9
+geopandas>=0.14
+folium>=0.15
+matplotlib>=3.8
+seaborn>=0.13
